@@ -16,7 +16,7 @@ aside {
 	width: 470px;
 	min-height: 480px;
 	background:
-	url(R:\tMunozGUI\tMunozGUI\images)
+	url(logo.png)
 	center top no-repeat;
 	margin: 0 0 20px 0;
 }
@@ -26,7 +26,7 @@ section {
 	width: 428px;
 	padding-left: 20px;
 	margin: 0 0 20px 0px;
-	border-left: 1px dotted #000;
+	//border-left: 1px dotted #000;
 }
 section h2 {
 	font: 14pt Helvetica,"Helvetica neue", Arial, sans-serif;
